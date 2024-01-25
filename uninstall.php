@@ -1,6 +1,4 @@
 <?php
-// 拡張子を txt => php にする
-// 自分のプラグインフォルダに置く
 
 // アンインストールでない場合は処理終了
 if (!defined('WP_UNINSTALL_PLUGIN')) {

@@ -1,0 +1,26 @@
+/* #wpadminbar #custom_timer_menu  */
+#wp-admin-bar-custom_timer_menu{
+    background-color: #23282d;
+    color: #a0a5aa;
+    font-size: 14px;
+    padding: 0 10px;
+}
+
+#wpadminbar #custom_timer_menu:hover {
+    color: #00a0d2;
+}
+
+#wpadminbar img{
+    height: 100% !important;
+    width: auto !important;
+    display: block !important;
+    margin-right: 10px;
+}
+
+.ab-item{
+    display: flex !important;
+}
+
+#remind_info{
+    margin-left: 20px;
+}
